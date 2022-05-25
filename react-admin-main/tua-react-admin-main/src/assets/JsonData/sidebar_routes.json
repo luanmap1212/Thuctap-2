@@ -1,0 +1,24 @@
+[
+    {
+        "display_name": "Trang Chủ",
+        "route": "/",
+        "icon": "bx bx-home"
+    },
+    {
+        "display_name": "Quản Lí Vé",
+        "route": "/customers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Đổi Soát Vé",
+        "route": "/products",
+        "icon": "bx bx-package"
+    },
+    
+
+    {
+        "display_name": "Cài Đặt",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+]
