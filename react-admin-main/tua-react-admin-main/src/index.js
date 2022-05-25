@@ -19,7 +19,7 @@ const store = createStore(
   rootReducer
 )
 
-document.title = 'Lok Bug Bug'
+document.title = 'Luna Tua'
 
 ReactDOM.render(
   <Provider store={store}>
