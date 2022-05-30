@@ -22,6 +22,7 @@ const store = createStore(
 document.title = 'Luna Tua'
 
 ReactDOM.render(
+  
   <Provider store={store}>
     <React.StrictMode>
       <Layout />
