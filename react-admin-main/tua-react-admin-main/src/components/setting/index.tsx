@@ -106,7 +106,7 @@ const Setting = ({ setTagIndex }: Props) => {
       title: () => <div style={{}}>Giá vé {"(VND/Combo)"}</div>,
       dataIndex: "code",
       render: () => {
-        return <div style={{}}>360.000 VNĐ/4 Vé</div>;
+        return <div style={{}}>350.000 VNĐ/4 Vé</div>;
       },
     },
     {
